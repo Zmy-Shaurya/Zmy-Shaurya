@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍India<br>🔭Currently Learning Bootstrap<br>🐍Specialized with Python<br>⭐Looking for contributes in FOSS<br>🐚Goals to finish frontend before 2025
+📍India<br>🔭Currently Learning Bootstrap<br>🐍Specialized with Python<br>⭐Looking for contributions in FOSS<br>🐚Goals to finish frontend before 2025
 
 
 ## 🌐 Socials:
