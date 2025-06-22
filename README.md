@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍India<br>🔭Currently Working on a RPG based Habit tracking system.<br>🐍Specialized with Python<br>🐚Goals to finish frontend before 2025
+📍India<br>🔭Currently Sharpening my skills on React.js<br>🐍Specialized with Python<br>🐚Polymath
 
 
 ## 🌐 Socials:
