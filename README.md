@@ -1,3 +1,6 @@
+# Hi, Shaurya Here.
+![](https://github.com/Zmy-Shaurya/Zmy-Shaurya/blob/main/_.gif)
+
 # 💫 About Me:
 📍India<br>🔭Currently Sharpening my skills on Data Structures & Algorithms<br>🐍Specialized with Python<br>🐚Polymath
 
