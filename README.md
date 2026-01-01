@@ -14,3 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Zmy-Shaurya&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmy-Shaurya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# Certificates and Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="24f66603-528f-4c9e-866e-6397c63c456b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
