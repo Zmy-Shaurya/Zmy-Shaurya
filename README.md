@@ -76,7 +76,7 @@
 
 <table align="center" width="100%" cellspacing="12" cellpadding="0">
   <tr>
-    <td width="12%" valign="top">
+    <td width="12%" valign="middle">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
         <tr>
           <td align="center" valign="middle">
