@@ -33,12 +33,12 @@
 
 <h2 align="center">Recent Projects</h2>
 
-<table width="100%" cellspacing="12" cellpadding="0">
+<table width="100%" cellspacing="12" cellpadding="0" style="table-layout: fixed;">
   <tr>
     <td width="50%" valign="top">
-      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
         <tr>
-          <td>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
             <p><strong><span style="color: #ff0000;">LandChain</span></strong></p>
             <p>Block Chain solution for Decentralized Land registry and transferring.</p>
             <p>Ethereum, Solidity, IPFS, Metamask</p>
@@ -48,9 +48,9 @@
       </table>
     </td>
     <td width="50%" valign="top">
-      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
         <tr>
-          <td>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
             <p><strong><span style="color: #ff0000;">Smart IoT Cradle</span></strong></p>
             <p>An automated infant care system featuring responsive cradle swinging and real-time wetness alerts.</p>
             <p>ESP-32, Crank-Slider Mechanism, IoT Devices</p>
@@ -62,9 +62,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
         <tr>
-          <td>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
             <p><strong><span style="color: #ff0000;">Real-Time Crime Hotspot Mapping</span></strong></p>
             <p>An interactive mapping application that extracts live news data to visualize high-risk crime zones for public safety.</p>
             <p>NewsAPI, NLP, Leaflet.js</p>
@@ -74,9 +74,9 @@
       </table>
     </td>
     <td width="50%" valign="top">
-      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
         <tr>
-          <td>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
             <p><strong><span style="color: #ff0000;">Vintage Webcam Photobooth</span></strong></p>
             <p>A web-based application that simulates classic hardware photobooths with customizable layouts and retro filters.</p>
             <p>Webcam, Framer-motion, Tailwind</p>
@@ -137,21 +137,21 @@
     <td width="24%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
         <tr>
-          <td align="center"><img src="AZ-900.jpg"></td>
+          <td align="center"><img width="200" src="AZ-900.jpg"></td>
         </tr>
       </table>
     </td>
     <td width="24%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
         <tr>
-          <td align="center"><img src="AI-900.png"></td>
+          <td align="center"><img width="200" src="AI-900.png"></td>
         </tr>
       </table>
     </td>
     <td width="24%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
         <tr>
-          <td align="center"><img src="AI-900-badge.png"></td>
+          <td align="center"><img width="200" src="AI-900-badge.png"></td>
         </tr>
       </table>
     </td>
