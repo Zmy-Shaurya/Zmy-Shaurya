@@ -1,12 +1,162 @@
-# Hi, Shaurya Here.
-![](https://github.com/Zmy-Shaurya/Zmy-Shaurya/blob/main/_.gif)
+#
+<table width="100%" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="14">
+        <tr>
+          <td>
+            <h2>Hi, I am <span style="color: #ff0000;">Shaurya</span></h2>
+            <p>👨🏽‍💻 Junior Developer</p>
+            <p>📍 India</p>
+            <p>🐍 Specialized in Python</p>
+            <p>📩 shauryapratasingh.work@gmail.com</p>
+            <p>🎓 B.Tech CSE (specialization in AI&amp;ML)</p>
+            <p>
+              <a href="https://linkedin.com/in/Zmy-Shaurya"><img src="https://img.shields.io/badge/LinkedIn-ff7a7a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+              <a href="https://leetcode.com/shaurya2508"><img src="https://img.shields.io/badge/Leetcode-ff7a7a?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="center">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center" valign="middle">
+            <img src="spiderman_logo_transparent.png" alt="Spider logo" width="250" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-# 💫 About Me:
-📍India<br>🔭Currently Sharpening my skills on Data Structures & Algorithms<br>🐍Specialized with Python<br>🐚Polymath
+<h2 align="center">Recent Projects</h2>
 
+<table width="100%" cellspacing="12" cellpadding="0" style="table-layout: fixed;">
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
+        <tr>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
+            <p><strong><span style="color: #ff0000;">LandChain</span></strong></p>
+            <p>Block Chain solution for Decentralized Land registry and transferring.</p>
+            <p>Ethereum, Solidity, IPFS, Metamask</p>
+            <p><a href="https://github.com/HARSHCHAUDHARY04/LandChain">GitHub</a></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
+        <tr>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
+            <p><strong><span style="color: #ff0000;">Smart IoT Cradle</span></strong></p>
+            <p>An automated infant care system featuring responsive cradle swinging and real-time wetness alerts.</p>
+            <p>ESP-32, Crank-Slider Mechanism, IoT Devices</p>
+            <p><a href="https://github.com/Zmy-Shaurya/IoT-Based-Smart-Cradle-For-Babies">GitHub</a></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
+        <tr>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
+            <p><strong><span style="color: #ff0000;">Real-Time Crime Hotspot Mapping</span></strong></p>
+            <p>An interactive mapping application that extracts live news data to visualize high-risk crime zones for public safety.</p>
+            <p>NewsAPI, NLP, Leaflet.js</p>
+            <p><a href="https://github.com/Zmy-Shaurya/Real-Time-Crime-Hotspot-Mapping">GitHub</a></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12" style="table-layout: fixed;">
+        <tr>
+          <td style="word-break: break-word; overflow-wrap: break-word;">
+            <p><strong><span style="color: #ff0000;">Vintage Webcam Photobooth</span></strong></p>
+            <p>A web-based application that simulates classic hardware photobooths with customizable layouts and retro filters.</p>
+            <p>Webcam, Framer-motion, Tailwind</p>
+            <p><a href="https://github.com/Zmy-Shaurya/Vintage-Webcam-Photobooth">GitHub</a></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zmy.camera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zmy-Shaurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthsinghshaurya@gmail.com) 
+<table width="100%" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="12%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+        <tr>
+          <td align="center" valign="middle">
+            <h2>TECH STACK</h2>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="88%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="8">
+        <tr>
+          <td width="24%"><strong>Languages:</strong></td>
+          <td>C, Python, Java, Lua, HTML, CSS, JavaScript, markdown</td>
+        </tr>
+        <tr>
+          <td><strong>Web-Dev:</strong></td>
+          <td>React, Tailwind, Bootstrap, Vite</td>
+        </tr>
+        <tr>
+          <td><strong>Backend, Cloud &amp; DB</strong></td>
+          <td>Flask, Django, Firebase, Azure, MySQL, Vercel, Render</td>
+        </tr>
+        <tr>
+          <td><strong>AIML &amp; DS:</strong></td>
+          <td>Pytorch, Pandas, Numpy, Matplotlib, Power BI</td>
+        </tr>
+        <tr>
+          <td><strong>IoT :</strong></td>
+          <td>Arduino, Raspberry Pi 5, ESP-32</td>
+        </tr>
+        <tr>
+          <td><strong>Technologies:</strong></td>
+          <td>git, github, docker</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<h2>Badges and Certificates</h2>
+
+<table width="100%" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="24%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+        <tr>
+          <td align="center"><img width="200" src="AZ-900.jpg"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="24%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+        <tr>
+          <td align="center"><img width="200" src="AI-900.png"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="24%" valign="top">
+      <table width="100%" border="2" cellspacing="0" cellpadding="12">
+        <tr>
+          <td align="center"><img width="200" src="AI-900-badge.png"></td>
+        </tr>
+      </table>
+    </td>
+    
+  </tr>
+</table>
+
+<p align="center">⭐ by Zmy-Shaurya</p>
