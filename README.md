@@ -1,32 +1,20 @@
 <h1 align="center">ZMY-SHAURYA</h1>
-<table align="center" width="100%" cellspacing="12" cellpadding="0" border="0">
-  <tr width="100%">
-    <td width="50%" valign="top">
-      <table width="100%" border="2" cellspacing="0" cellpadding="14">
-        <tr>
-          <td>
-            <h1>Hi, I am <span style="color: #ff0000;">Shaurya</span></h2>
-            <p>👨🏽‍💻 Junior Developer</p>
-            <p>📍 India</p>
-            <p>🐍 Specialized in Python</p>
-            <p>📩 <a href="mailto:shauryapratapsingh.work@gmail.com">shauryapratapsingh.work@gmail.com</a></p>
-            <p>🎓 B.Tech CSE (specialization in AI&amp;ML)</p>
-            <p>
-              <a href="https://linkedin.com/in/Zmy-Shaurya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-              <a href="https://leetcode.com/shaurya2508"><img src="https://img.shields.io/badge/Leetcode-FFB700?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
-            </p>
-          </td>
-        </tr>
-      </table>
+<table align="center" width="100%" cellspacing="12" cellpadding="0" border="0" style="table-layout: fixed; width: 100%;">
+  <tr>
+    <td width="60%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
+      <h1>Hi, I am <span style="color: #ff0000;">Shaurya</span></h1>
+      <p>👨🏽‍💻 Junior Developer</p>
+      <p>📍 India</p>
+      <p>🐍 Specialized in Python</p>
+      <p>📩 <a href="mailto:shauryapratapsingh.work@gmail.com">shauryapratapsingh.work@gmail.com</a></p>
+      <p>🎓 B.Tech CSE (specialization in AI&amp;ML)</p>
+      <p>
+        <a href="https://linkedin.com/in/Zmy-Shaurya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://leetcode.com/shaurya2508"><img src="https://img.shields.io/badge/Leetcode-FFB700?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
+      </p>
     </td>
-    <td width="50%" valign="center">
-      <table height="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td align="center" valign="middle">
-            <img src="spiderman_logo_transparent.png" alt="Spider logo" width="250" />
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="middle" style="border: 0px solid #ff7a7a; padding: 18px 18px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6; text-align: center;">
+      <img src="spiderman_logo_transparent.png" alt="Spider logo" width="250" />
     </td>
   </tr>
 </table>
@@ -76,7 +64,7 @@
 
 <table align="center" width="100%" cellspacing="12" cellpadding="0">
   <tr>
-    <td width="12%" valign="middle">
+    <td width="12%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
         <tr>
           <td align="center" valign="middle">
