@@ -23,9 +23,7 @@
       <table height="100%" border="0" cellspacing="0" cellpadding="0">
         <tr>
           <td align="center" valign="middle">
-            <pre>        </pre>
             <img src="spiderman_logo_transparent.png" alt="Spider logo" width="250" />
-            <pre>        </pre>
           </td>
         </tr>
       </table>
