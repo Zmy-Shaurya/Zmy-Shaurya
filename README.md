@@ -9,11 +9,11 @@
             <p>👨🏽‍💻 Junior Developer</p>
             <p>📍 India</p>
             <p>🐍 Specialized in Python</p>
-            <p>📩 shauryapratasingh.work@gmail.com</p>
+            <p>📩 <a href="mailto:shauryapratapsingh.work@gmail.com">shauryapratapsingh.work@gmail.com</a></p>
             <p>🎓 B.Tech CSE (specialization in AI&amp;ML)</p>
             <p>
-              <a href="https://linkedin.com/in/Zmy-Shaurya"><img src="https://img.shields.io/badge/LinkedIn-ff7a7a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-              <a href="https://leetcode.com/shaurya2508"><img src="https://img.shields.io/badge/Leetcode-ff7a7a?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
+              <a href="https://linkedin.com/in/Zmy-Shaurya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+              <a href="https://leetcode.com/shaurya2508"><img src="https://img.shields.io/badge/Leetcode-FFB700?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
             </p>
           </td>
         </tr>
@@ -23,7 +23,9 @@
       <table height="100%" border="0" cellspacing="0" cellpadding="0">
         <tr>
           <td align="center" valign="middle">
+            <pre>        </pre>
             <img src="spiderman_logo_transparent.png" alt="Spider logo" width="250" />
+            <pre>        </pre>
           </td>
         </tr>
       </table>
