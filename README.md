@@ -1,4 +1,3 @@
-<h1 align="center">ZMY-SHAURYA</h1>
 <table align="center" width="100%" cellspacing="12" cellpadding="0" border="0" style="table-layout: fixed; width: 100%;">
   <tr>
     <td width="60%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
@@ -20,7 +19,6 @@
 </table>
 
 <h1 align="center">Recent Projects</h2>
-
 <br>
 <table width="100%" cellspacing="12" cellpadding="0" style="table-layout: fixed; width: 100%;">
   <tr>
