@@ -1,4 +1,5 @@
-<table width="100%" cellspacing="12" cellpadding="0" border="0">
+<h1 align="center">ZMY-SHAURYA</h1>
+<table align="center" width="100%" cellspacing="12" cellpadding="0" border="0">
   <tr width="100%">
     <td width="50%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="14">
@@ -30,42 +31,50 @@
   </tr>
 </table>
 
-<h2 align="center">Recent Projects</h2>
+<h1 align="center">Recent Projects</h2>
 
 <br>
 <table width="100%" cellspacing="12" cellpadding="0" style="table-layout: fixed; width: 100%;">
   <tr>
     <td width="50%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
-      <p><img src="https://img.shields.io/badge/LandChain-ff0000?style=for-the-badge&logoColor=white" alt="LandChain" /></p>
+      <br>
+      <p><img src="https://img.shields.io/badge/LandChain-000000?style=for-the-badge&logoColor=white" alt="LandChain" /></p>
       <p>Block Chain solution for Decentralized Land registry and transferring.</p>
       <p>Ethereum, Solidity, IPFS, Metamask</p>
       <p><a href="https://github.com/HARSHCHAUDHARY04/LandChain">GitHub</a></p>
+      <br>
     </td>
     <td width="50%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
-      <p><img src="https://img.shields.io/badge/Smart_IoT_Cradle-ff0000?style=for-the-badge&logoColor=white" alt="Smart IoT Cradle" /></p>
+      <br>
+      <p><img src="https://img.shields.io/badge/Smart_IoT_Cradle-000000?style=for-the-badge&logoColor=white" alt="Smart IoT Cradle" /></p>
       <p>An automated infant care system featuring responsive cradle swinging and real-time wetness alerts.</p>
       <p>ESP-32, Crank-Slider Mechanism, IoT Devices</p>
       <p><a href="https://github.com/Zmy-Shaurya/IoT-Based-Smart-Cradle-For-Babies">GitHub</a></p>
+      <br>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
-      <p><img src="https://img.shields.io/badge/Real--Time_Crime_Hotspot_Mapping-ff0000?style=for-the-badge&logoColor=white" alt="Real-Time Crime Hotspot Mapping" /></p>
+      <br>
+      <p><img src="https://img.shields.io/badge/Real--Time_Crime_Hotspot_Mapping-000000?style=for-the-badge&logoColor=white" alt="Real-Time Crime Hotspot Mapping" /></p>
       <p>An interactive mapping application that extracts live news data to visualize high-risk crime zones for public safety.</p>
       <p>NewsAPI, NLP, Leaflet.js</p>
       <p><a href="https://github.com/Zmy-Shaurya/Real-Time-Crime-Hotspot-Mapping">GitHub</a></p>
+      <br>
     </td>
     <td width="50%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
-      <p><img src="https://img.shields.io/badge/Vintage_Webcam_Photobooth-ff0000?style=for-the-badge&logoColor=white" alt="Vintage Webcam Photobooth" /></p>
+      <br>
+      <p><img src="https://img.shields.io/badge/Vintage_Webcam_Photobooth-000000?style=for-the-badge&logoColor=white" alt="Vintage Webcam Photobooth" /></p>
       <p>A web-based application that simulates classic hardware photobooths with customizable layouts and retro filters.</p>
       <p>Webcam, Framer-motion, Tailwind</p>
       <p><a href="https://github.com/Zmy-Shaurya/Vintage-Webcam-Photobooth">GitHub</a></p>
+      <br>
     </td>
   </tr>
 </table>
 <br>
 
-<table width="100%" cellspacing="12" cellpadding="0">
+<table align="center" width="100%" cellspacing="12" cellpadding="0">
   <tr>
     <td width="12%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
@@ -117,10 +126,13 @@
     </td>
   </tr>
 </table>
-
-<h2>Badges and Certificates</h2>
-
-<table width="100%" cellspacing="12" cellpadding="0">
+<br>
+<table align="center" width="100%" cellspacing="12" cellpadding="0">
+  <tr>
+    <td colspan="3" align="center" valign="middle">
+      <h1>Badges and Certificates</h1>
+    </td>
+  </tr>
   <tr>
     <td width="24%" valign="top">
       <table width="100%" border="2" cellspacing="0" cellpadding="12">
