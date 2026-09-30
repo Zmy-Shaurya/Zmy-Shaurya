@@ -2,7 +2,7 @@
   <tr>
     <td width="60%" valign="top" style="border: 2px solid #ff7a7a; padding: 18px 14px; word-break: break-word; overflow-wrap: anywhere; line-height: 1.6;">
       <h1>Hi, I am <span style="color: #ff0000;">Shaurya</span></h1>
-      <p>👨🏽‍💻 Junior Developer</p>
+      <p>👨🏽‍💻 CS Undergrad</p>
       <p>📍 India</p>
       <p>🐍 Specialized in Python</p>
       <p>📩 <a href="mailto:shauryapratapsingh.work@gmail.com">shauryapratapsingh.work@gmail.com</a></p>
